@@ -7,7 +7,7 @@ public class Chapter04_1 {
 		str1 = "AAA";
 		System.out.println(str1);
 		final int luck;
-		luck = 777;
-		System.out.println(luck);
+		lucknum = 777;
+		System.out.println(lucknum);
 	}
 }
